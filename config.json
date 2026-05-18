@@ -1,0 +1,7 @@
+{
+    "user_token": "YOUR_DISCORD_USER_TOKEN_HERE",
+    "channel_mappings": {
+        "SOURCE_CHANNEL_ID_1": "TARGET_WEBHOOK_URL_1",
+        "SOURCE_CHANNEL_ID_2": "TARGET_WEBHOOK_URL_2"
+    }
+}
