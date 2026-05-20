@@ -21,9 +21,8 @@
 
 ### 安装步骤
 
-1. **克隆仓库**
+1. **解压缩**
 ```bash
-git clone https://github.com/allensmth/discord_copy.git
 cd discord_copy
 ```
 
