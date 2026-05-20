@@ -1,7 +1,7 @@
 {
-    "user_token": "YOUR_DISCORD_USER_TOKEN_HERE",
+    "user_token": "you token here",
     "channel_mappings": {
-        "SOURCE_CHANNEL_ID_1": "TARGET_WEBHOOK_URL_1",
-        "SOURCE_CHANNEL_ID_2": "TARGET_WEBHOOK_URL_2"
+        "1417818776497426524": "https://discord.com/api/webhooks/1506588505516802178/7LNVZsxVjWQ7tzYX4HyBZMQdNatxaEaFydEEVsu1kZoPpnLldcF9TRw-c1taNjShOTTA",
+        "1417818776497426525": "https://discord.com/api/webhooks/1506588505516802178/7LNVZsxVjWQ7tzYX4HyBZMQdNatxaEaFydEEVsu1kZoPpnLldcF9TRw-c1taNjShOTTA"
     }
 }
